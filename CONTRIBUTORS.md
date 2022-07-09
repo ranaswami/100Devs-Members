@@ -6,6 +6,7 @@
   - [Catherine Chukwu](https://github.com/kjcatherine)
 - ### **D**
   - [David Oquendo](https://github.com/DaoOqu)
+- ### **E**
 - ### **F**
 - ### **G**
 - ### **H**
