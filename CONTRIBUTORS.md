@@ -5,7 +5,7 @@
 - ### **C**
   - [Catherine Chukwu](https://github.com/kjcatherine)
 - ### **D**
-- ### **E**
+  - [David Oquendo](https://github.com/DaoOqu)
 - ### **F**
 - ### **G**
 - ### **H**
